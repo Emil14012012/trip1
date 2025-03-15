@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: gray;
+}
+
+h1 {
+    font-style: italic;
+    text-align: center;
+    font-size: 40px;
+}
+
+.ulclass {
+    gap: 20px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.gap {
+    color: grey;
+}
+
+
+.yes {
+    gap: 200px;
+
+}
+
+p {
+    cursor: pointer;
+    text-align: center;
+}
+
+a {
+    font-style: initial;
+    font-size: 25px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
